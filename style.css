@@ -1,48 +1,48 @@
-      #navigationbar {
-        background-color: black;
-        padding: 18px;
-        margin-right: 60px;
-      }
-      .bar {
-        display: inline;
-        color: white;
-      }
-      .bar a {
-        text-decoration: none;
-        list-style: none;
-      }
-      .bar a img{
-        height: 35px;
-        width: 40px;
-        border-radius: 10px;
-      }
-      .canvas{
-        color: white;
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            font-weight: bold;
-            font-style: italic;
-            font-size: 25px;
-
-      }
-      .see {
-        color: blanchedalmond;
-        margin-left: 25px;
-        background-color: black;
-        border: 2px solid white;
-        border-radius: 3px;
-        padding: 15px;
-      }
-      a {
-        padding: 18px;
-        background-color: black;
-      }
-      body {
-        background-image: url("./burger-bg-image-.jpg");
-        background-repeat: no-repeat;
-        background-size: cover;
-      }
-      h1 {
-        -webkit-text-stroke-width: 0.7px;
-      -webkit-text-stroke-color: #fff;
-      font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-      }
+#navigationbar {
+  background-color: black;
+  padding: 18px;
+  margin-right: 60px;
+}
+.bar {
+  display: inline;
+  color: white;
+}
+.bar a {
+  text-decoration: none;
+  list-style: none;
+}
+.bar a img {
+  height: 35px;
+  width: 40px;
+  border-radius: 10px;
+}
+.canvas {
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 25px;
+}
+.see {
+  color: blanchedalmond;
+  margin-left: 25px;
+  background-color: black;
+  border: 2px solid white;
+  border-radius: 3px;
+  padding: 15px;
+}
+a {
+  padding: 18px;
+  background-color: black;
+}
+body {
+  background-image: url("./burger-bg-image-.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1 {
+  -webkit-text-stroke-width: 0.7px;
+  -webkit-text-stroke-color: #fff;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
